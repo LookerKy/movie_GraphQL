@@ -7,6 +7,16 @@
   "author": "LookerKy<nagaraz07@gamil.com>",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.17.4"
+    "global": "^4.3.2",
+    "graphql-yoga": "^1.17.4",
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node index"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1"
   }
 }
