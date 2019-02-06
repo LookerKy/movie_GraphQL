@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/LookerKy/movie_GraphQL",
   "author": "LookerKy<nagaraz07@gamil.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
 }
