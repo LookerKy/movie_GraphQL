@@ -66,7 +66,6 @@
 //     return newMovie;
 // }
 
-import fetch from "node-fetch";
 import axios from "axios";
 const API_URL = "https://yts.am/api/v2/";
 const LIST_MOVIES_URL = `${API_URL}list_movies.json`;
