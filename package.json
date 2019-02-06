@@ -1,0 +1,9 @@
+{
+  "name": "grahpql-movieapp",
+  "version": "1.0.0",
+  "description": "movie Api with graph ql",
+  "main": "index.js",
+  "repository": "https://github.com/LookerKy/movie_GraphQL",
+  "author": "LookerKy<nagaraz07@gamil.com>",
+  "license": "MIT"
+}
